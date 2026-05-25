@@ -59,12 +59,4 @@ The project demonstrates how modern automotive systems use distributed ECUs and 
 - Processes CAN bus data
 - Displays vehicle information on CLCD
 
-## 👩‍💻 Author
 
-Kruthika Shetty
-
----
-
-## 📜 License
-
-This project is developed for educational and learning purposes.
