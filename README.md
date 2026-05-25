@@ -26,7 +26,7 @@ The project demonstrates how modern automotive systems use distributed ECUs and 
 - ADC based sensor reading
 - Digital keypad input handling
 - Interrupt based processing
-- Timer0 based operations
+- Timer based operations
 
 ## 🛠 Technologies Used
 
